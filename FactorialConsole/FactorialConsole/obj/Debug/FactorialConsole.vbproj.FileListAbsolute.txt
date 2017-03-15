@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\FactorialConsole\FactorialConsole\bin\Debug\FactorialConsole.exe.config
+c:\users\user\documents\visual studio 2015\Projects\FactorialConsole\FactorialConsole\bin\Debug\FactorialConsole.exe
+c:\users\user\documents\visual studio 2015\Projects\FactorialConsole\FactorialConsole\bin\Debug\FactorialConsole.pdb
+c:\users\user\documents\visual studio 2015\Projects\FactorialConsole\FactorialConsole\bin\Debug\FactorialConsole.xml
+c:\users\user\documents\visual studio 2015\Projects\FactorialConsole\FactorialConsole\obj\Debug\FactorialConsole.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\FactorialConsole\FactorialConsole\obj\Debug\FactorialConsole.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\FactorialConsole\FactorialConsole\obj\Debug\FactorialConsole.exe
+c:\users\user\documents\visual studio 2015\Projects\FactorialConsole\FactorialConsole\obj\Debug\FactorialConsole.xml
+c:\users\user\documents\visual studio 2015\Projects\FactorialConsole\FactorialConsole\obj\Debug\FactorialConsole.pdb
